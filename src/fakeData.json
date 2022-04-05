@@ -1,0 +1,44 @@
+[
+    {
+   "id": 1,
+   "Name": "Robbi",
+   "Comment": "At present world Smart Television is revolutionatry change in the society",
+   "Rating": 4,
+   "image": "http://careerconfidential.com/wp-content/uploads/2017/05/Businessman-Copy-Copy.jpg"
+ },
+ {
+   "id": 2,
+   "Name": "Gunner",
+   "Comment": "Television a great improvement over the radio.Radio pleases the only sense of hearing but television pleases our senses of sight and hearing at the same time.",
+   "Rating": 5,
+   "image": "https://i.ibb.co/NtJZ9k1/warren-wong-VVEw-JJRRHgk-1024x1024-2.jpg"
+ },
+ {
+   "id": 3,
+   "Name": "Tiphany",
+   "Comment": "There are many different types of programs on Television. The viewer can watch a weather report to prepare for the day.",
+   "Rating": 4,
+   "image": "https://i.ibb.co/gZSpVMC/bewakoof-com-official-205182.jpg"
+ },
+ {
+   "id": 4,
+   "Name": "Theresina",
+   "Comment": "The content is very appealing because it is realistic and up to date. As TV is a medium that combines moving, color images, and sound, it resembles real life, so the viewers can identify with what they see.",
+   "Rating": 5,
+   "image": "https://i.ibb.co/HHR8XVs/bewakoof-com-official-245573-939x1024.jpg"
+ },
+ {
+   "id": 5,
+   "Name": "Cordy",
+   "Comment": "Modern technology means that the content is up to date, for example, news reports can be broadcast live and from all over the world. This means that information is available almost anywhere at any time.",
+   "Rating": 4.5,
+   "image": "https://i.ibb.co/2PMD80P/pexels-photo-26939-1-1024x1024.jpg"
+ },
+ {
+   "id": 6,
+   "Name": "Portia",
+   "Comment": "People want education, information, and instruction because they are inquisitive and like to learn. TV gives us this in documentaries or educational programs, and in reports or cultural programs.",
+   "Rating": 5,
+   "image": "http://cache.desktopnexus.com/thumbseg/2487/2487414-bigthumbnail.jpg"
+ }
+]
